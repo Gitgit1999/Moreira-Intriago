@@ -1,7 +1,7 @@
 # Portafolio personal
 
 ## Estudiante
-MOREIRA INTRIAGO
+BRYAN ENRIQUE MOREIRA INTRIAGO
 
 ## Descripción
 Portafolio personal desarrollado para la Actividad Integradora 1
