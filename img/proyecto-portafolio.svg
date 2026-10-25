@@ -1,0 +1,55 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="600" height="380"
+     viewBox="0 0 600 380">
+
+    <rect width="600" height="380"
+          rx="20" fill="#f7f5ef"/>
+
+    <!-- Monitor -->
+    <rect x="75" y="45" width="450" height="270"
+          rx="15" fill="#173d38"/>
+
+    <rect x="90" y="60" width="420" height="230"
+          rx="8" fill="#ffffff"/>
+
+    <!-- Barra del navegador -->
+    <rect x="90" y="60" width="420" height="40"
+          fill="#e6e0d5"/>
+
+    <circle cx="115" cy="80" r="7" fill="#b99660"/>
+    <circle cx="137" cy="80" r="7" fill="#173d38"/>
+    <circle cx="159" cy="80" r="7" fill="#9bb5a6"/>
+
+    <!-- Titulo -->
+    <rect x="125" y="125" width="260" height="18"
+          rx="4" fill="#173d38"/>
+
+    <!-- Contenido web -->
+    <rect x="125" y="165" width="210" height="9"
+          rx="3" fill="#b99660"/>
+
+    <rect x="125" y="185" width="230" height="9"
+          rx="3" fill="#cbd5cf"/>
+
+    <rect x="125" y="205" width="185" height="9"
+          rx="3" fill="#cbd5cf"/>
+
+    <!-- Imagen decorativa -->
+    <rect x="385" y="130" width="85" height="100"
+          rx="10" fill="#173d38"/>
+
+    <circle cx="427" cy="162" r="18"
+            fill="#b99660"/>
+
+    <path d="M397 214 Q427 175 457 214"
+          fill="#b99660"/>
+
+    <!-- Base del monitor -->
+    <rect x="275" y="315" width="50" height="25"
+          fill="#173d38"/>
+
+    <rect x="235" y="340" width="130" height="12"
+          rx="5" fill="#b99660"/>
+
+</svg>
