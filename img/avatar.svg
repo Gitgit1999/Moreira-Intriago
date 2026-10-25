@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="360" height="420"
+     viewBox="0 0 360 420">
+
+    <defs>
+        <linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#173d38"/>
+            <stop offset="100%" stop-color="#2e5b53"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Fondo -->
+    <rect width="360" height="420" rx="28" fill="url(#fondo)"/>
+
+    <!-- Marco decorativo -->
+    <rect x="18" y="18" width="324" height="384" rx="20"
+          fill="none" stroke="#b99660" stroke-width="3"/>
+
+    <!-- Gorra policial -->
+    <rect x="115" y="78" width="130" height="22" rx="8" fill="#0f223f"/>
+    <path d="M105 100 Q180 55 255 100 L245 118 L115 118 Z" fill="#162b4a"/>
+    <circle cx="180" cy="99" r="10" fill="#d4af37"/>
+    <text x="180" y="103" text-anchor="middle"
+          font-family="Times New Roman" font-size="10"
+          fill="#173d38">★</text>
+
+    <!-- Cabeza -->
+    <circle cx="180" cy="155" r="48" fill="#e6cda3"/>
+
+    <!-- Cuello -->
+    <rect x="165" y="195" width="30" height="24" rx="8" fill="#d9bc93"/>
+
+    <!-- Uniforme policial -->
+    <path d="M92 315
+             C100 245 132 220 180 220
+             C228 220 260 245 268 315
+             L268 350
+             L92 350 Z"
+          fill="#1b3557"/>
+
+    <!-- Cuello de camisa -->
+    <path d="M150 220 L180 250 L210 220 Z" fill="#e8edf4"/>
+
+    <!-- Corbata -->
+    <path d="M172 238 L188 238 L194 285 L180 300 L166 285 Z"
+          fill="#0f223f"/>
+
+    <!-- Placa -->
+    <path d="M120 260
+             L132 248
+             L144 260
+             L140 278
+             L124 278 Z"
+          fill="#d4af37" stroke="#b99660" stroke-width="1.5"/>
+
+    <!-- Bolsillo -->
+    <rect x="214" y="248" width="28" height="22" rx="3"
+          fill="#26466e"/>
+
+    <!-- Nombre -->
+    <text x="180" y="380"
+          text-anchor="middle"
+          font-family="Times New Roman"
+          font-size="22"
+          fill="#ffffff">
+        BRYAN MOREIRA
+    </text>
+
+    <!-- Descripción -->
+    <text x="180" y="402"
+          text-anchor="middle"
+          font-family="Times New Roman"
+          font-size="13"
+          fill="#e6cda3">
+       
+    </text>
+
+</svg>
